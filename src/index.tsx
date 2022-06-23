@@ -16,6 +16,7 @@ export default class MyCounter extends React.Component<Props, State> {
   }
 
   render() {
+    debugger;
     const styles = `.my-counter * {
           font-size: 200%;
         }
